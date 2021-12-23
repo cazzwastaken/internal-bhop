@@ -6,7 +6,7 @@ Internal bhop tutorial [video](https://www.youtube.com/watch?v=Oam-8lVxNq8)
 
 ## 🌌 Setup
 - Clone the repo
-- CMake sure offsets are up-to-date
+- Make sure offsets are up-to-date
 - Build in Release | x86
 - Inject into CS:GO
 - Enjoy
